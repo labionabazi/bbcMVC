@@ -29,6 +29,8 @@
 			<!-- fix schf -->
             <li><a href="<?=$GLOBALS['appurl']?>/kontakt">Kontaktliste</a></li>
             <li><a href="<?=$GLOBALS['appurl']?>/kontakt/create">Kontakt erfassen</a></li>
+            <li><a href="<?=$GLOBALS['appurl']?>/kontakt/create">Ortliste</a></li>
+            <li><a href="<?=$GLOBALS['appurl']?>/kontakt/create">Ort erfassen</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
